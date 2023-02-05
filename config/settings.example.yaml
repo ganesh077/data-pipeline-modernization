@@ -1,0 +1,7 @@
+# Copy this file to config/settings.yaml and update the DSN for your environment.
+db:
+  dsn: "sqlite:///data/warehouse.db"
+  echo_sql: false
+paths:
+  raw_orders: "data/raw/orders.csv"
+batch_size: 200
