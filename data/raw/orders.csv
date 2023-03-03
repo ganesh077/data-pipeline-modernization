@@ -1,0 +1,7 @@
+order_id,customer_id,customer_name,customer_email,product_name,category,quantity,unit_price_usd,order_ts,status
+1001,C001,Ada Lovelace,ada@example.com,Data Engineering 101,Books,2,59.5,2024-01-15T10:02:00Z,SHIPPED
+1002,C002,Grace Hopper,grace@example.com,Streaming Pipelines,Books,1,72.0,2024-01-16T11:45:00Z,DELIVERED
+1003,C003,Alan Turing,alan@example.com,Python SDK,Software,5,15.0,2024-01-17T09:30:00Z,CANCELLED
+1004,C001,Ada Lovelace,ada@example.com,Python SDK,Software,1,15.0,2024-01-18T15:45:00Z,DELIVERED
+1005,C004,Radia Perlman,radia@example.com,Data Vault Templates,Templates,3,120.0,2024-01-19T10:00:00Z,PROCESSING
+1006,C002,Grace Hopper,grace@example.com,Data Engineering 101,Books,1,59.5,2024-01-20T10:02:00Z,SHIPPED
